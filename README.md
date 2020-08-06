@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
 - ⚡ I'm interested in competitaive coding and UI/UX designing.
-- ⚡ 5 star in problem solving at HackerRank.
-- ⚡ 2 star coder at CodeChef.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love painting and listening songs.
 ---
