@@ -1,4 +1,6 @@
 ![alt text](https://github.com/WaderManasi/WaderManasi/blob/master/manasi_.png "Logo Title Text 1")
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)
 ### Hi there, I'm [Manasi][website] 👋
 
 - 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
