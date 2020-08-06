@@ -1,4 +1,4 @@
-![alt text](" Logo Title Text 1")
+![alt text]("https://github.com/WaderManasi/WaderManasi/blob/master/manasi_.png Logo Title Text 1")
 ### Hi there, I'm [Manasi][website] 👋
 
 - 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
