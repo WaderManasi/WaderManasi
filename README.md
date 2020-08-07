@@ -45,8 +45,7 @@
 
 ---
 
-<img align="left" alt="Manasi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast" />
-
+![manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast)
 
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
