@@ -45,7 +45,6 @@
 
 ---
 
-<img align="left" alt="Manasi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast" />
 
 
 [website]: https://wadermanasi.github.io/portfolio/
