@@ -53,4 +53,3 @@
 [linkedin]: https://www.linkedin.com/in/manasi-wader-2455a0197/
 [github]: https://github.com/WaderManasi/
 [mail]: manasiwader@gmail.com
-
