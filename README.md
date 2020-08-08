@@ -20,14 +20,16 @@
 
 ---
 
+![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right)
+
+---
+
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaderManasi&layout=compact)](https://github.com/wadermanasi/github-readme-stats)]
 
 ---
-
-![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right)
 
 
 [website]: https://wadermanasi.github.io/portfolio/
