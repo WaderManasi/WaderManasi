@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
 - ⚡ I'm interested in competitaive coding and UI/UX designing.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love painting and listening songs.
 ---
 ### Connect with me at:
