@@ -4,8 +4,8 @@
 ### Hi there, I'm [Manasi][website] 👋
 
 - 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
-- ⚡ I'm interested in competitaive coding and UI/UX designing.
-- 🥅 2020 Goals: Contribute to Open Source projects
+- ⚡ I'm interested in competitaive coding and Full Stack Development.
+- 🥅 2020 Goals: Contribute to Open Source.
 - ⚡ Fun fact: I love painting and listening songs.
 ---
 ### Connect with me at:
