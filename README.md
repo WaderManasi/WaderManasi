@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
 ### Hi there, I'm [Manasi][website] 👋
 
-- 🔭 I’m currently persuing undergraduation from D.Y.Patil College of Engineering,Pune.
+- 🔭 I’m currently persuing undergraduation in Computer Science.
 - ⚡ I'm interested in competitaive coding and Full Stack Development.
 - 🥅 2020 Goals: Contribute to Open Source.
 - ⚡ Fun fact: I love painting and listening songs.
