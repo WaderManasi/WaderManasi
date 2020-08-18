@@ -6,7 +6,6 @@
 - 🔭 I’m currently persuing undergraduation in Computer Science.
 - ⚡ I'm interested in competitaive coding and Full Stack Development.
 - 🥅 2020 Goals: Contribute to Open Source.
-- ⚡ Fun fact: I love painting and listening songs.
 ---
 ### Connect with me at:
 
