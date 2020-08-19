@@ -27,7 +27,7 @@
 ### Competative Coding Profile
 
 
- # [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=#00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-davidepollicino-green)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/)
+ # [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-davidepollicino-green)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/)
 
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
