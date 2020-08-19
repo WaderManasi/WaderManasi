@@ -27,7 +27,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
 </a>
 
-<br .<
 <br />
 
 ### Competative Coding Profile
