@@ -1,5 +1,3 @@
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
 ### Hi there, I'm [Manasi][website] 👋
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
@@ -15,7 +13,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
 ---
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right)
