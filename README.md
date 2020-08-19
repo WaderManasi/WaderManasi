@@ -43,10 +43,10 @@
  <br />
  
  <a href="https://github.com/WaderManasi/Knowing-DataStructures-Algorithms">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wadermanasi&repo=Knowing-DataStructures-Algorithms" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wadermanasi&repo=Knowing-DataStructures-Algorithms&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/WaderManasi/HackerRank">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=wadermanasi&repo=HackerRank&theme=chartreuse-dark" />
 </a>
 
 [website]: https://wadermanasi.github.io/portfolio/
