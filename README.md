@@ -20,6 +20,12 @@
 
 ---
 
+*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
+<br />
+
+
+---
+
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast)
 <a href="https://github.com/wadermanasi/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
@@ -27,18 +33,15 @@
 
 ----
 
+<br />
+
+
 ### Competative Coding Profile
 
 
  # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/manasiw)
 
----
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
-<br />
-
-
----
 
 
 [website]: https://wadermanasi.github.io/portfolio/
