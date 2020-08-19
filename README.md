@@ -35,8 +35,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ### Competative Coding Profile
 
@@ -44,11 +42,11 @@
  
  <br />
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+ <a href="https://github.com/WaderManasi/Knowing-DataStructures-Algorithms">
+  <img align="left" src="https://Knowing-DataStructures-Algorithms.vercel.app/api/pin/?username=wadermanasi&repo=Knowing-DataStructures-Algorithms" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 [website]: https://wadermanasi.github.io/portfolio/
