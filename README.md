@@ -13,12 +13,22 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+ 
+ ---
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
+
 ---
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right)
 
 ---
+
+### Competative Coding Profile
+
+
+ [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)
+
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
 <br />
