@@ -20,7 +20,7 @@
 
 ---
 
-![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right) [![Top Langs]<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WaderManasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
+![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right) <a href="https://github.com/wadermanasi/github-readme-stats">[![Top Langs]<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WaderManasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" /></a<
 
 
 ----
