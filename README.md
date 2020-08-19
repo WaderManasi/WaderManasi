@@ -20,7 +20,8 @@
 
 ---
 
-![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right)
+![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right) [![Top Langs]<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WaderManasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
+
 
 ----
 
@@ -34,7 +35,6 @@
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats**
 <br />
 
-[![Top Langs]<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaderManasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />(https://github.com/wadermanasi/github-readme-stats)
 
 ---
 
