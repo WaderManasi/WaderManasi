@@ -21,7 +21,9 @@
 ---
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 ----
 
