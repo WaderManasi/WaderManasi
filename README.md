@@ -37,9 +37,6 @@
 <a href="https://github.com/wadermanasi/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
 </a>
-
-----
-
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
 [linkedin]: https://www.linkedin.com/in/manasi-wader-2455a0197/
