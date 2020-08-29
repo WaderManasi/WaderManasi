@@ -21,9 +21,12 @@
 
 ---
 
+
 ### Competative Coding Profile
 
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/) [![Codechef]
+
+ # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/manasiw)
+ 
  
  <br />
 
@@ -37,7 +40,6 @@
 
 ----
 
-(https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/manasiw)
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
 [linkedin]: https://www.linkedin.com/in/manasi-wader-2455a0197/
