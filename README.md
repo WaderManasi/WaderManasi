@@ -47,7 +47,7 @@
  
  ### Useful Repos -
  
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wadermanasi&repo=Knowing-DataStructures-Algorithms&theme=chartreuse-dark&show_icons=true) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wadermanasi&repo=HackerRank&theme=chartreuse-dark&show_icons=true)
+ 
 
 
 [website]: https://wadermanasi.github.io/portfolio/
