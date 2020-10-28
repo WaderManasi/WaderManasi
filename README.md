@@ -1,9 +1,9 @@
 ## Hey there, I'm [Manasi][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
-- ⚡ I'm interested in competitaive coding and Full Stack Web-Development.
+- ⚡ I'm interested in competitive coding and Full Stack Web-Development.
 - ❤️ Learning and Exploring React
-- 🥅 2020 Goals: Contribute to OPEN SOURCE!.
+- 🥅 2020 Goals: Contribute to OPEN SOURCE!
 <br />
 
 ### Connect with me at:
