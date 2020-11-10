@@ -38,7 +38,7 @@
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
 
 <a href="https://github.com/wadermanasi/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515&langs_count=25" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515&langs_count=25&hide_border=false" />
 </a>
 
 
