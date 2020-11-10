@@ -32,7 +32,9 @@
  <br />
 
 
-![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=1800)
+![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800)
+
+[![New's github stats](https://github-readme-stats.vercel.app/api?username=wadermanasii)](https://github.com/wadermanasi/github-readme-stats)
 
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
