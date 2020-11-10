@@ -42,9 +42,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadermanasi&layout=compact)](https://github.com/wadermanasi/github-readme-stats)
-
-
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
 [linkedin]: https://www.linkedin.com/in/manasi-wader-2455a0197/
