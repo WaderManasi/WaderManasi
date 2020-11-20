@@ -15,16 +15,12 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
  
 # [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://wadermanasi.github.io/portfolio/)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
 
-
 ### Competative Coding Profile
 
-
  # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manasiwader?hr_r=1)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manasi_wader/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/manasiw)
- 
  
  <br />
 
