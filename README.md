@@ -3,7 +3,7 @@
 - 🔭 I’m currently persuing undergraduation in Computer Science.
 - ⚡ I'm interested in competitive coding and Full Stack Web-Development.
 - ❤️ Learning and Exploring React
-- 🥅 2020 Goals: Contribute to OPEN SOURCE!.
+- 🥅 2020 Goals: Contribute to OPEN SOURCE!..
 <br />
 
 ### Connect with me at:
