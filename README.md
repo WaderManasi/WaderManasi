@@ -143,7 +143,7 @@
 
 <div>
  
-<a href="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true" /><a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false&hide=Ruby,Batchfile" />
+<a href="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true" /><a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false&hide=Ruby,Batchfile&show=plsql" />
 </a>
 
 </div>
