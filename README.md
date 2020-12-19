@@ -27,7 +27,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
