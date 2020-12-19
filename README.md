@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[](tech stack.png)
+![](techstack.png)
 
 > ### Tools and Languages Known: 
 
