@@ -26,7 +26,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
 
-
+<br />
 
 > ### Tools and Languages Known: 
 
