@@ -144,9 +144,6 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-
-
 
 > ### Competative Coding Profile
 
