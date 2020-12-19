@@ -22,12 +22,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-<br />
+<br /> 
 
-<div align="center">
- 
 > ### Tools and Languages Known: 
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
