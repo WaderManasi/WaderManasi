@@ -15,8 +15,8 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
- 
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://wadermanasi.github.io/portfolio/) ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
 
 ### Competative Coding Profile
 
