@@ -29,13 +29,13 @@
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>Python
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
