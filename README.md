@@ -16,7 +16,7 @@
 
 <br />
  
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://wadermanasi.github.io/portfolio/)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://wadermanasi.github.io/portfolio/)  ![Profile views](https://gitwar.herokuapp.com/badge?username=WaderManasi&color=green) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/WaderManasi/WaderManasi?style=social)  
 
 ### Competative Coding Profile
 
