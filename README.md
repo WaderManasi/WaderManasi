@@ -31,7 +31,6 @@
 <br />
 <br />
 
-![](techstack.png)
 
 > ### Tools and Languages Known: 
 
