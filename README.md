@@ -21,7 +21,10 @@
 </a>
  <a href="mailto:manasiwader@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red alt=gmail style="margin-bottom: 5px;" />
-</a> 
+</a>
+ <a href="mailto:manasiwader@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=linear-gradient(to top left, #ff9900 0%, #ff0066 100%) alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 ----
 
