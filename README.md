@@ -14,23 +14,16 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <a href="https://wadermanasi.github.io/portfolio/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/manasi-wader-2455a0197/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:manasiwader@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/wmanasi_art06/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
-
-
- 
 > ### Tools and Languages Known: 
 
 <table>
@@ -106,7 +99,7 @@
     </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src=" https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="ubuntu" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="ubuntu" />
       </a>
       <br>Linux
     </td>
@@ -140,6 +133,7 @@
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
 
