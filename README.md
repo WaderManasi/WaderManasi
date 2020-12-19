@@ -26,6 +26,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
+
 <br />
 <br />
 
@@ -146,11 +148,7 @@
 </div>
 
 <br/>
-<br/>
 
-<div align="center">
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
- <div>
 
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
