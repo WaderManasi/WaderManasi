@@ -39,9 +39,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Golang
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -51,9 +51,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="html" />
       </a>
-      <br>TypeScript
+      <br>HTML5
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -61,24 +67,19 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#macropower-tech" >
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Sass
+      <br>React
     </td>
+    
   </tr>
   <tr>
     <td align="center" width="96"> 
