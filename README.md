@@ -31,6 +31,8 @@
 <br />
 <br />
 
+[](tech stack.png)
+
 > ### Tools and Languages Known: 
 
 <table>
