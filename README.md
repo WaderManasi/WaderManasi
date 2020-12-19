@@ -1,3 +1,5 @@
+<div align="center">
+ 
 > ## Hey there, I'm [Manasi][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
@@ -5,8 +7,6 @@
 - ❤️ Learning and Exploring React
 - 🥅 2020 Goals: Contribute to OPEN SOURCE!..
 
-
-<div align="center">
  
 > ### Connect with me at: 
 
@@ -23,6 +23,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<br />
 
 <div align="center">
  
@@ -132,7 +134,6 @@
    
   </tr>
 </table>
-
 </div>
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
