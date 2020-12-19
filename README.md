@@ -5,13 +5,14 @@
 - ❤️ Learning and Exploring React
 - 🥅 2020 Goals: Contribute to OPEN SOURCE!..
 
-> ### Connect with me at: ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
+> ### Connect with me at: 
 
 [<img align="left"  width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
 
 > ### Competative Coding Profile
 
