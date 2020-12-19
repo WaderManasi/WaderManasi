@@ -89,6 +89,12 @@
       </a>
       <br>Linux
     </td>
+ <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src=" https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="ubuntu" />
+      </a>
+      <br>Linux
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="45" height="45" alt="Powershell" />
