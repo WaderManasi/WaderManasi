@@ -27,7 +27,6 @@
 
 > ### Tools and Languages Known: 
 
-<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -132,7 +131,6 @@
    
   </tr>
 </table>
-</div>
 
 <br />
 
