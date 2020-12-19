@@ -1,4 +1,3 @@
-<div align="center">
  
 > ## Hey there, I'm [Manasi][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -22,7 +21,6 @@
 <a href="https://www.instagram.com/wmanasi_art06/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>
 
 <br />
 
