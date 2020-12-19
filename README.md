@@ -24,6 +24,8 @@
 </a>  
 </div>
 
+<div align="center">
+ 
 > ### Tools and Languages Known: 
 
 <table>
@@ -130,6 +132,8 @@
    
   </tr>
 </table>
+
+</div>
 
 ![Manasi's github stats](https://github-readme-stats.vercel.app/api?username=WaderManasi&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
 
