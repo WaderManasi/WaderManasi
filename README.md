@@ -87,12 +87,6 @@
       </a>
       <br>Ubuntu
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="25" height="25" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="25" height="25" alt="oracle" />
@@ -104,12 +98,6 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25" alt="node" />
-      </a>
-      <br>NodeJS
     </td>
    
   </tr>
