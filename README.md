@@ -38,49 +38,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35" height="35" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" alt="C#" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35" height="35" alt="Java" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" alt="html" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25" alt="html" />
       </a>
       <br>HTML5
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" height="35" alt="css" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25" alt="css" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="25" height="25" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="25" height="25" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="35" height="35" alt="React" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="25" height="25" alt="React" />
       </a>
       <br>React
     </td>
@@ -89,49 +89,49 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="35" height="35" alt="Docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Docker" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35" height="35" alt="Kubernetes" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25" alt="Kubernetes" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35" height="35" alt="linux" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" height="25" alt="linux" />
       </a>
       <br>Linux
     </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="35" height="35" alt="ubuntu" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="35" height="35" alt="Powershell" />
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="25" height="25" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="35" height="35" alt="oracle" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="25" height="25" alt="oracle" />
       </a>
       <br>Oracle
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="node" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25" alt="node" />
       </a>
       <br>NodeJS
     </td>
