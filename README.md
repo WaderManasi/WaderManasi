@@ -8,7 +8,7 @@
 
 <br />
 
-![Tech](TECHSTACK.png)
+
 
 <br />
 
