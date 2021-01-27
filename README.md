@@ -8,6 +8,8 @@
 
 <br />
 
+![Tech](TECHSTACK.png)
+
 > ### Tools and Languages Known: 
 
 <table>
