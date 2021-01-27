@@ -4,7 +4,7 @@
 ![title](TITLE.mp4)
 
 
-<a href="https://github.com/WaderManasi/WaderManasi/blob/master/TITLE.mp4" title="Link Title"></a>
+<a href="{https://github.com/WaderManasi/WaderManasi/blob/master/TITLE.mp4}" title="Link Title"></a>
 
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
