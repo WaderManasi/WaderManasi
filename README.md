@@ -19,17 +19,7 @@
 
 <div>
  
- <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
-</a>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WaderManasi&margin-w=25)](https://github.com/WaderManasi/github-profile-trophy)
-
-</div>
-
-<br/>
-
-
-> ### Connect with me at: 
+ > ### Connect with me at: 
 
 <a href="https://github.com/WaderManasi/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,6 +36,16 @@
  <a href="mailto:manasiwader@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
+
+
+ <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
+</a>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=WaderManasi&margin-w=25)](https://github.com/WaderManasi/github-profile-trophy)
+
+</div>
+
+<br/>
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
 
