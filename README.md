@@ -1,8 +1,7 @@
  
 > ## Hey there, I'm [Manasi][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![title](TITLE.gif)
-
+<a href="https://www.freeconvert.com/gif-compressor" target="_blank">GIF Compressor</a>
 
 <a href="{https://github.com/WaderManasi/WaderManasi/blob/master/TITLE.mp4}" title="Link Title"></a>
 
