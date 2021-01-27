@@ -1,7 +1,8 @@
  
 > ## Hey there, I'm [Manasi][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![title](TITLE.mp4)
+[![title](TITLE.mp4)](TITLE.mp4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
 - ⚡ I'm interested in competitive coding and Full Stack Web-Development.
