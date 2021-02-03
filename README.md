@@ -1,7 +1,7 @@
 ![](TITLE.gif)
 
 - 🔭 I’m currently persuing undergraduation in Computer Science.
-- ⚡ I'm interested in competitive coding and Full Stack Web-Development.
+- ⚡ I'm interested in competitive coding and Frontend-Development.
 - ❤️ Learning and Exploring React
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
 
