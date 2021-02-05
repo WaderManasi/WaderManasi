@@ -13,11 +13,8 @@
 
 <div>
  
- 
+  ### Connect with me at:
 <p align="center">
- 
- ### Connect with me at:
- <br />
 <a href="https://github.com/WaderManasi/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -35,10 +32,10 @@
 </a>
  </p>
 <p align="center">  
-<a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktamane" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/prajakta916mane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="30" width="40" /></a>  
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="30" width="40" /></a>  
+<a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a>  
+<a href="https://www.hackerrank.com/manasiwader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="40" width="50" /></a>  
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="40" width="50" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="40" width="50" /></a>  
 </p>
 
  <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
