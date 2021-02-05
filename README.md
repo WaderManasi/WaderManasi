@@ -11,8 +11,7 @@
 
 <br />
 
-<div>
- 
+
   ### CONNECT WITH ME AT:
   <p align="center">   
 <a href="https://www.hackerrank.com/manasiwader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="40" width="50" /></a>  
@@ -39,7 +38,8 @@
 </a>
  </p>
 
-
+<div align="center">
+ 
  <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
 </a>
  
