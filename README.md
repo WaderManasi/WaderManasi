@@ -1,8 +1,8 @@
 ![](TITLE.gif)
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*_.
+- 🔭 I’m currently persuing undergraduation in *Computer Science*.
 - ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
-- ❤️ Learning and Exploring _*React*_
+- ❤️ Learning and Exploring _*React*_.
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
 
 <br />
