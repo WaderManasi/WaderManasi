@@ -34,7 +34,7 @@
 <a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktamane" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/prajakta916mane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="30" width="40" /></a>  
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="30" width="40" /></a>  
 </p>
 
  <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
