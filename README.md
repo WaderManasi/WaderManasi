@@ -14,7 +14,7 @@
 <div>
  
  > ### Connect with me at: 
-
+<p align="center">
 <a href="https://github.com/WaderManasi/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -30,6 +30,7 @@
  <a href="mailto:manasiwader@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
+ </p>
 <p align="center">  
 <a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktamane" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/prajakta916mane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="30" width="40" /></a>  
