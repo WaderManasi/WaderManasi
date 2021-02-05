@@ -1,6 +1,6 @@
 ![](TITLE.gif)
 
-- 🔭 I’m currently persuing undergraduation in _*Computer Science*_.
+- 🔭 I’m currently persuing undergraduation in *Computer Science*_.
 - ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
 - ❤️ Learning and Exploring _*React*_
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
@@ -14,11 +14,12 @@
 <div>
  
   ### CONNECT WITH ME AT:
-  <p align="center">  
-<a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a>  
+  <p align="center">   
 <a href="https://www.hackerrank.com/manasiwader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="40" width="50" /></a>  
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="40" width="50" /></a>  
 <a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="40" width="50" /></a>  
+ <a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a> 
+ <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="40" width="50" /></a>  
+
 </p>
 <p align="center">
 <a href="https://github.com/WaderManasi/" target="_blank">
