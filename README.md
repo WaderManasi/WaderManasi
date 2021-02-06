@@ -37,11 +37,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
  </p>
-<p align="center">
+<div align="center">
   
    ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 
-  </p>
+  </div>
 <div>
  
  <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
