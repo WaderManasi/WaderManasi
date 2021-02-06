@@ -39,7 +39,7 @@
  </p>
 <p align="center">
   
-  ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=WaderManasi.visitor-badge&color=green)
+   ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 
   </p>
 <div>
