@@ -40,7 +40,8 @@
 <div align="center">
   
    ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
-
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&show_icons=true&theme=radical&hide=commits)
   </div>
 <div>
  
