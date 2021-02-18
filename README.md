@@ -49,7 +49,9 @@
 </a>
  
  <p align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=WaderManasi&margin-w=22)](https://github.com/WaderManasi/github-profile-trophy)
+
 </p>
 
 </div>
