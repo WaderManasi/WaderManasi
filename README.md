@@ -41,7 +41,7 @@
   
    ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&show_icons=true&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&bg_color=141439)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits,stars&show_icons=true&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&bg_color=141439)
   </div>
 <div>
  
