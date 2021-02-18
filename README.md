@@ -45,10 +45,10 @@
   </div>
 <div>
  
- <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast)](https://github.com/WaderManasi/github-readme-streak-stats)
+ <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&bg_color=141439)](https://github.com/WaderManasi/github-readme-streak-stats)
 </a>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=WaderManasi&margin-w=25)](https://github.com/WaderManasi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WaderManasi&margin-w=22)](https://github.com/WaderManasi/github-profile-trophy)
 
 </div>
 
