@@ -16,7 +16,7 @@
   <p align="center">   
 <a href="https://www.hackerrank.com/manasiwader" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="manasi_wader" height="40" width="50" /></a>  
 <a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="40" width="50" /></a>  
- <a href="https://www.codechef.com/users/manasiw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a> 
+ <a href="https://www.codechef.com/users/manasi_wader" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a> 
  <a href="https://leetcode.com/manasiwader/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="40" width="50" /></a>  
 
 </p>
