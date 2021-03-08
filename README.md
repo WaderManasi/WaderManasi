@@ -36,13 +36,15 @@
  <a href="mailto:manasiwader@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
+<a>
   
-  ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
-  
+![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
+  </a>
  </p>
 <div align="center">
  
 <br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits,stars&show_icons=true&title_color=ffcc00&text_color=4d88ff&icon_color=ff1ac6&bg_color=141439)
   </div>
 <div>
