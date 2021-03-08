@@ -4,7 +4,7 @@
 - ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
 - ❤️ Learning and Exploring _*React*_.
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
-- Profile views ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 <br />
 
 ![Tch](TECHSTACK.png)
@@ -12,7 +12,7 @@
 <br />
 
 
-  ### CONNECT WITH ME AT:
+  ### CONNECT WITH ME AT 👉:
   <p align="center">   
 <a href="https://www.hackerrank.com/manasiwader" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="manasi_wader" height="40" width="50" /></a>  
 <a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="40" width="50" /></a>  
