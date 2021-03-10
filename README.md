@@ -41,7 +41,7 @@
  
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits,stars&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439)
   </div>
 <div>
  
