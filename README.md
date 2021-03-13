@@ -12,7 +12,7 @@
 <br />
 
 
-  ### ✦ CONNECT WITH ME AT 👉:
+  > ### CONNECT WITH ME AT :
 
 <p align="center">
 <a href="https://github.com/WaderManasi/" target="_blank">
