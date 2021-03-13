@@ -13,13 +13,7 @@
 
 
   ### ✦ CONNECT WITH ME AT 👉:
-  <p align="center">   
-<a href="https://www.hackerrank.com/manasiwader" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="manasi_wader" height="40" width="50" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/manasi_wader/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manasiwader/profile" height="40" width="50" /></a>  
- <a href="https://www.codechef.com/users/manasi_wader" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manasiwader" height="40" width="50" /></a> 
- <a href="https://leetcode.com/manasiwader/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manasiwader" height="40" width="50" /></a>  
 
-</p>
 <p align="center">
 <a href="https://github.com/WaderManasi/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,9 +26,6 @@
 </a>
  <a href="mailto:manasiwader@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:manasiwader@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
 </a>
  </p>
 <div align="center">
