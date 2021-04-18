@@ -7,8 +7,7 @@
 - ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 <br />
 
-|![Tch](TECHSTACK.png)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|
-|---|---|
+![Tch](TECHSTACK.png)
 
 <br />
 
@@ -37,9 +36,7 @@
 
 <br/>
 
- <a href="https://github.com/wadermanasi/github-readme-stats">
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />
 
 [website]: https://wadermanasi.github.io/portfolio/
 [instagram]: https://www.instagram.com/wmanasi_art06/
