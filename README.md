@@ -1,10 +1,20 @@
 ![](TITLE.gif)
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*.
+|- 🔭 I’m currently persuing undergraduation in *Computer Science*.
 - ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
 - ❤️ Learning and Exploring _*React*_.
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
-- ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)|<p align="center">
+<a href="https://github.com/WaderManasi/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/manasiwader/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ </p>|
+|---|---|
+
+
 <br />
 
 ![Tch](TECHSTACK.png)
@@ -14,14 +24,7 @@
 
   > ### CONNECT WITH ME AT :  
 
-<p align="center">
-<a href="https://github.com/WaderManasi/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/manasiwader/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- </p>
+
 
 
 |<img  src="https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast"/>|
