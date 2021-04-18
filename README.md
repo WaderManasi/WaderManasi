@@ -30,13 +30,13 @@
  </p>
 
 
-|<img  src="https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits,stars&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast"/>|
-|---|---|
+|<img  src="https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits,stars&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|
+|---|---|---|
 
 
 <br/>
 
- <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />
+ <a href="https://github.com/wadermanasi/github-readme-stats">
 </a>
 
 
