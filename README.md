@@ -8,11 +8,6 @@
 
 <br />
 
-![Tch](TECHSTACK.png)
-
-<br />
-
-
 > ### CONNECT WITH ME AT :  
 
 <a href="https://github.com/WaderManasi/" target="_blank">
