@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute to OPEN SOURCE!..
 - ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 
-> Connect With Me
+## Connect With Me At:
 
 <p align="center">
 <a href="https://github.com/WaderManasi/" target="_blank">
