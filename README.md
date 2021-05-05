@@ -21,11 +21,7 @@
 <br />
 
 
-
-
-
-
-|<img  src="https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits&show_icons=true&title_color=ffcc00&text_color=b3ccff&icon_color=ff1ac6&bg_color=141439"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast"/>|
+|<img  src="https://github-readme-stats.vercel.app/api?username=wadermanasi&hide=commits&show_icons=true&theme=highcontrast"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WaderManasi&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=cccc00"/>|
 |---|---|
 
 
