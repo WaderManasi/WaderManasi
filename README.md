@@ -1,4 +1,4 @@
-![](TITLE.gif)
+![](TITLE_.gif)
 
 - 🔭 I’m currently persuing undergraduation in *Computer Science*.
 - ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
