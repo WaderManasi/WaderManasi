@@ -30,8 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadermanasi&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />
 
-[website]: https://wadermanasi.github.io/portfolio/
-[instagram]: https://www.instagram.com/wmanasi_art06/
-[linkedin]: https://www.linkedin.com/in/manasi-wader-2455a0197/
-[github]: https://github.com/WaderManasi/
-[mail]: manasiwader@gmail.com
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
