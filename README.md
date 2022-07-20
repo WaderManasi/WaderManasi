@@ -1,9 +1,9 @@
 ![](TITLE_.gif)
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*.
-- ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
+- 🔭 *Computer Science* Undergrad.
+- ⚡ Interested in _*Competitive Coding*_ and _*Web-Development*_.
 - ❤️ Learning and Exploring _*ReactJS*_.
-- 🥅 2021 Goals: Contribute to OPEN SOURCE!..
+- 🥅 2022 Goals: Contribute to OPEN SOURCE!..
 - ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 
 > Connect With Me At:
