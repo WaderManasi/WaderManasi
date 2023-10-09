@@ -3,8 +3,8 @@
 - 🔭 *Computer Science* Undergrad.
 - ⚡ Interested in _*Competitive Coding*_ and _*Web-Development*_.
 - ❤️ Learning and Exploring _*ReactJS*_.
-- 🥅 2022 Goals: Contribute to OPEN SOURCE!..
-- ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
+  
+ ![Visitor Count](https://profile-counter.glitch.me/wadermanasi/count.svg)
 
 > Connect With Me At:
 
